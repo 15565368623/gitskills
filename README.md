@@ -1,1 +1,1 @@
-# gitskil
+# gitski
